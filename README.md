@@ -4,9 +4,9 @@ Un amigo heredó un pequeño super de un tío abuelo 2do.  Se enteró que sos as
 
 *Estado inicial*
 
-- hacer un fork del proyecto actual
-- Clonar el fork de forma local 
-- Agregar archivo gitignore 
+- hacer un fork del proyecto actual ok
+- Clonar el fork de forma local ok
+- Agregar archivo gitignore ok
 - Comenzar a avanzar con los requisitos de la primer a iteración
 
 *Primera  interación*
